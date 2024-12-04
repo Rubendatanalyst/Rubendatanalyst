@@ -7,7 +7,7 @@
 
 #### Te ayudo a organizar y traducir lo que dicen tus datos.
 
-#### Ayudo a transformar datos en resultados favorables para empresas, facilitando la toma de decisiones basadas en datos y generando Insights a través de análisis exploratorios, prescriptivos y estadísticos, mediante el uso de herramientas como: SQL, Python, Power BI.
+#### Ayudo a transformar datos en resultados favorables para empresas, facilitando la toma de decisiones basadas en datos y generando Insights a través de análisis exploratorios, prescriptivos y estadísticos, mediante el uso de herramientas como: SQL, Python, Tableau.
 
   ## Habilidades  
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)</br>
