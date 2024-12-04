@@ -18,6 +18,8 @@
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)</br>
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-002F92?style=for-the-badge&logo=vscode&logoColor=white&labelColor=101010)</br>
 ![Tableau](https://img.shields.io/badge/Tableau-101010?style=for-the-badge&logo=tableaum&logoColor=white&labelColor=E97627)</br>
+![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=sqlum&logoColor=white&labelColor=4479A1)</br>
+
   ## Encuentrame en:
 [![Linkedin](https://img.shields.io/badge/Linkedin-Ruben_Rodriguez-101010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](www.linkedin.com/in/ruben-rodriguez-leal)</br>
 ![Gmail](https://img.shields.io/badge/Gmail-va.rubendrl@gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white&labelColor=921800)]</br>
