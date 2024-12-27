@@ -9,7 +9,7 @@
 
 #### Ayudo a transformar datos en resultados favorables para empresas, facilitando la toma de decisiones basadas en datos y generando Insights a través de análisis exploratorios, prescriptivos y estadísticos, mediante el uso de herramientas como: SQL, Python, Tableau.
 
-  ## Habilidades  tableau
+ 
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)</br>
 ![Jupyter](https://img.shields.io/badge/Jupyter-101010?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626)</br>
 ![PyCharm](https://img.shields.io/badge/Pycharm-101010?style=for-the-badge&logo=pycharm&logoColor=white&labelColor=81DA23)</br>
