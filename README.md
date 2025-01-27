@@ -1,7 +1,6 @@
 ## Hola! 👋, mi nombre es Rubén Rodríguez
 
-<!--
-**Rubendatanalyst/Rubendatanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**Rubendatanalyst/Rubendatanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ![https//github.com/Rubendatanalyst](https://media.licdn.com/dms/image/v2/D4E16AQGsS6l6Za78UQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726533098910?e=1735171200&v=beta&t=FBpSanv9wEhyWVuXWJAYboa47n9d4khptUEttblhfH0)
 
